@@ -1,3 +1,0 @@
----
-gmetad_poll_interval: 60
-rrd_root_dir: "{{ default_data_dir }}/ganglia/rrd"
